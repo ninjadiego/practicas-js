@@ -1,0 +1,21 @@
+{
+  "name": "practicas-js",
+  "version": "1.0.0",
+  "description": "Ejercicios y practicas de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Sin tests todavia\" && exit 0"
+  },
+  "keywords": [
+    "javascript",
+    "ejercicios",
+    "practicas",
+    "aprendizaje"
+  ],
+  "author": "ninjadiego",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjadiego/practicas-js.git"
+  }
+}
